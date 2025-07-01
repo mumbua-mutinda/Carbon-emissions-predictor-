@@ -3,7 +3,7 @@
 ##  Overview
 This project aligns with **UN SDG 13 – Climate Action**, focusing on forecasting carbon emissions globally using historical energy and economic indicators. Using supervised learning, we predict annual CO₂ emissions for countries over time to aid in sustainability planning.
 
-## 📊Dataset
+## Dataset
 - Source: Kaggle CO₂ Emissions dataset
 - Features: `Year`, `Country (Entity)`
 - Target: `Annual CO₂ Emissions (tonnes)`
