@@ -30,18 +30,18 @@ This tool demonstrates how AI can help:
 ### 1. Actual vs Predicted CO₂ Emissions
 This scatter plot shows how close the model’s predictions are to actual CO₂ emissions across countries and years.
 
-![Actual vs Predicted](screenshots/actual-vs-predicted.png)
+![Actual vs Predicted](https://github.com/mumbua-mutinda/Carbon-emissions-predictor-/blob/main/Screenshots/actual-vs-predicted.png)
 
 ---
 
 ### 2. CO₂ Emissions Over Time – Kenya
 A line graph showing how emissions in Kenya have evolved from 1949 onwards.
 
-![Kenya Emissions](screenshots/kenya-emissions-trend.png)
+![Kenya Emissions](https://github.com/mumbua-mutinda/Carbon-emissions-predictor-/blob/main/Screenshots/kenya-emissions-trend.png)
 
 ---
 
 ### 3. Feature Importance
 The model relies more heavily on the `Year` variable than on `Entity` (country), as shown below.
 
-![Feature Importance](screenshots/feature-importance.png)
+![Feature Importance](https://github.com/mumbua-mutinda/Carbon-emissions-predictor-/blob/main/Screenshots/feature-importance.png)
